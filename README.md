@@ -1,2 +1,2 @@
-# My_DSA_Practice
-this repository contain my all dsa practice question .
+# My_DSA_Practice.
+dsa question solved using Python! 
